@@ -19,8 +19,6 @@ Languages: Catalán (official), French, Castilian, Portuguese
 
 Ethnicity/race: Spanish 43%, Andorran 33%, Portuguese 11%, French 7%, other 6% (1998)
 
-Religion: Roman Catholic (predominant)
-
 National Holiday: Our Lady of Meritxell Day, September 8
 
 Literacy rate: 100%
